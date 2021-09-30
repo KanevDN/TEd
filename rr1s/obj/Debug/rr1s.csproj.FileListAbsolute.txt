@@ -1,0 +1,10 @@
+C:\Users\vadim\source\repos\rr1s\rr1s\bin\Debug\rr1s.exe.config
+C:\Users\vadim\source\repos\rr1s\rr1s\bin\Debug\rr1s.exe
+C:\Users\vadim\source\repos\rr1s\rr1s\bin\Debug\rr1s.pdb
+C:\Users\vadim\source\repos\rr1s\rr1s\obj\Debug\rr1s.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\rr1s\rr1s\obj\Debug\rr1s.Form1.resources
+C:\Users\vadim\source\repos\rr1s\rr1s\obj\Debug\rr1s.Properties.Resources.resources
+C:\Users\vadim\source\repos\rr1s\rr1s\obj\Debug\rr1s.csproj.GenerateResource.cache
+C:\Users\vadim\source\repos\rr1s\rr1s\obj\Debug\rr1s.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\rr1s\rr1s\obj\Debug\rr1s.exe
+C:\Users\vadim\source\repos\rr1s\rr1s\obj\Debug\rr1s.pdb
