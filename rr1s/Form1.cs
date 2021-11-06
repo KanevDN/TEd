@@ -12,11 +12,15 @@ using System.Windows.Forms;
 namespace rr1s
 {
     public partial class Form1 : Form
+
     {
+        
         public Form1()
+
         {
             InitializeComponent();
             saveFileDialog1.Filter = "Текстовые документы|*.txt|Все файлы|*.*";
+
             
         }
 
@@ -126,6 +130,17 @@ namespace rr1s
         }
 
         private void richTextBox1_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void справкаToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            Form2 boxw = new Form2();
+            boxw.Show();
+        }
+
+        private void файлToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }

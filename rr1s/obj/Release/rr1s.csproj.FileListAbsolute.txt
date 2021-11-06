@@ -8,3 +8,4 @@ C:\Users\vadim\source\repos\rr1s\rr1s\obj\Release\rr1s.csproj.GenerateResource.c
 C:\Users\vadim\source\repos\rr1s\rr1s\obj\Release\rr1s.csproj.CoreCompileInputs.cache
 C:\Users\vadim\source\repos\rr1s\rr1s\obj\Release\rr1s.exe
 C:\Users\vadim\source\repos\rr1s\rr1s\obj\Release\rr1s.pdb
+C:\Users\vadim\source\repos\rr1s\rr1s\obj\Release\rr1s.Form2.resources
